@@ -6,8 +6,8 @@ This project implements linear regression from scratch to predict weather patter
 
 The repository contains two main implementations:
 
-1. **Simple LR(Classification).ipynb** - Basic linear regression for weather classification
-2. **Multivariate Logistic Regression.ipynb** - Multivariate linear regression with feature normalization for temperature prediction
+1. **Simple_Linear_Regression.ipynb** - Basic linear regression for weather classification
+2. **Multivariate_Linear_Regression.ipynb** - Multivariate linear regression with feature normalization for temperature prediction
 
 ## Features
 
@@ -46,12 +46,12 @@ pip install -r requirements.txt
 
 ### Simple Linear Regression
 ```bash
-jupyter notebook "Simple LR(Classification).ipynb"
+jupyter notebook "Simple_Linear_Regression.ipynb"
 ```
 
 ### Multivariate Linear Regression
 ```bash
-jupyter notebook "Multivariate Logistic Regression.ipynb"
+jupyter notebook "Multivariate_Linear_Regression.ipynb"
 ```
 
 ## Implementation Details
